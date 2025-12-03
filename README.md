@@ -35,14 +35,12 @@ Utilizei a função **"Quick Build"** (Construção Rápida) para que o Canvas s
 ### 3. Análise de Resultados (Analyze)
 Após o treinamento, o Canvas apresentou as métricas de performance do modelo.
 
-**[INSIRA UM PRINT AQUI DA TELA "ANALYZE" MOSTRANDO OS GRÁFICOS DE ACURÁCIA E AS MÉTRICAS (WAPE, RMSE)]**
 
 *A análise dos gráficos demonstrou a capacidade do modelo em acompanhar a sazonalidade e as tendências de venda dos produtos principais.*
 
 ### 4. Geração de Previsões (Predict)
 Com o modelo validado, a etapa final foi gerar previsões. O SageMaker Canvas permite simular cenários hipotéticos (alterando preços, por exemplo) ou gerar previsões em lote para datas futuras.
 
-**[INSIRA UM PRINT AQUI DA TELA "PREDICT" MOSTRANDO UMA LINHA DO TEMPO COM A PREVISÃO FUTURA DO ESTOQUE]**
 
 ---
 
@@ -51,4 +49,4 @@ Com o modelo validado, a etapa final foi gerar previsões. O SageMaker Canvas pe
 Este projeto demonstrou como ferramentas *no-code* como o Amazon SageMaker Canvas democratizam o acesso à Inteligência Artificial. Foi possível sair de um arquivo CSV bruto para um modelo de previsão de estoque funcional em poucos passos, permitindo que o foco permaneça na estratégia de negócios e não na complexidade da codificação.
 
 ---
-**Autor:** [Seu Nome Aqui]
+**Autor:** [Pedro Henrique Aiello Delazari Figueiredo]
